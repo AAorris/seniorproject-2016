@@ -28,3 +28,8 @@ Particular preference for games and interactive installations
 [...HCI, Interfaces]
 
 <hr/>
+
+>### Chris Joslin
+Animations
+
+<hr/>
