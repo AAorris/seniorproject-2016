@@ -5,6 +5,9 @@
 ## Get started
 - Read the [Senior Project Presentation Minutes](https://github.com/bitsoc/seniorproject-2016/tree/master/outline.md)
 - Check out the [Senior Project Timeline](https://github.com/bitsoc/seniorproject-2016/tree/master/timeline.md)
+
+#### Make changes
+If you want to make changes you can contact someone for an invite, but the smoothest way is probably a pull request! You can fork the repository and submit one. Then we'll know your username and we can invite you to join. Good Git practice, too! (:
 - [Add your student profile](https://github.com/bitsoc/seniorproject-2016/tree/master/profiles)
   - You'll need it for your web site anyway, right?
 - [Post some project ideas](https://github.com/bitsoc/seniorproject-2016/tree/master/ideas)
