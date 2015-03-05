@@ -42,3 +42,16 @@ Particular preference for games and interactive installations
 Animations
 
 <hr/>
+
+
+# Why GitHub?
+
+Github is made to be social and collaborative, and centered around projects! By putting ourselves and our projects here, we can learn to use github, practice social development, get feedback from each other, and pass our experience on to future senior projects. I think that sounds nice!
+
+# But what do I *do*?
+
+If you've got a project already, post an overview of your project in the projects folder! If you've got a repository for that, link it in yo!
+
+If you've got ideas, post them in the ideas section. People can comment on commits, edit changes, and do other stuff to help you work it out!
+
+If you're trying to take the professors' advice and give everyone a chance in order to find the right group, post a little about yourself in the profiles section. Maybe it's weird, but would could be cool!
