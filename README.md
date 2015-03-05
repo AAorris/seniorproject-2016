@@ -17,6 +17,9 @@
 - Hang out with people in senior project
 - Talk about ideas!
 
+### Turn projects into boss monsters in a [BITSoc guild on HabitRPG](https://habitrpg.com/#/options/groups/guilds/8f986218-c1eb-4fe7-a4a7-07ea88fe5895)
+- Shoot Aaron a message or something! I'm not sure exactly how it works yet.
+
 ## Research Professors
 
 >### Anthony Whitehead
